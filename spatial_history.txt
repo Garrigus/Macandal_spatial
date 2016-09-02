@@ -1,0 +1,122 @@
+Main files for SSHC Chicago 2016 -*-mode: org-*-
+* DEADLINE: <2016-10-31 Mon> to send paper to chair and discussants
+•	George Vascik (vascikgs@miamioh.edu) -- Network Rep, Creator, Organizer
+•	Nancy Tatarek (tatarek@ohio.edu) -- Chair, Discussant
+•	Pierre Galanaud (pierre.galanaud@u-psud.fr) -- Author 
+•	Anne Galanaud (pgalanaud@gmail.com) -- Author 
+•	Henri Labesse (henri.labesse@laposte.net) -- Author 
+•	Patrick Giraudoux (patrick.giraudoux@univ-fcomte.fr) -- Author 
+•	John Garrigus (garrigus@uta.edu) -- Author 
+•	Catherine Porter (c.porter2@lancaster.ac.uk) -- Author 
+•	Paul Atkinson (p.atkinson3@lancaster.ac.uk) -- Author 
+•	Ian Gregory (i.gregory@lancaster.ac.uk) -- Author 
+•	Donald Lafreniere (djlafren@mtu.edu) -- Author 
+•	John Arnold (jdarnold@mtu.edu) -- Author 
+
+* [2016-08-04 Thu] FW on spatial history and the mystery of Macandal
+** The concept of spatial history breaks apart the traditional Macandal narrative. The different spatial elements of the story are:
+  1. the progression of arrests from east to west
+  2. the proximity of the border and the port of Monte Cristo to the affected zones
+  3. the fact that only the North Province was involved in this poisoning
+  4. the spatial relationship of the North to the Atlantic and North America, unlike the West and South
+  5. the human population density of the north versus the emptiness of Santo Domingo
+  6. the livestock population density of the North [compare to other New World zones]
+  7. the environmental chaos, presumably, unleashed by the coffee revolution: cycle of storms and droughts; see Moreau on Trou, etc.
+  8. impact of Atlantic hurricanes
+  9. impact of mutual proximity of the African slave trade and the French commerce
+  10. the nature of the soils in this region -- do they match the anthrax profile?
+  11. the recurring nature of anthrax reinfection -- les champs maudit
+  12. the fact that French colonists mostly did not come from regions that were familiar with anthrax or other livestock plagues
+      1. Spain was also untouched [??] by livestock plagues?
+      2. North America not yet experiencing anthrax
+** What I have to do in this paper is: [make it central to my anthrax article]
+  - Introduce the Macandal story and its importance for later history
+  - introduce my revision of the story around anthrax
+  - Set the stage for them to understand Saint-Domingue
+    - unique or at least FIRST in the plantation world by 1750 in terms of: capital, density, geography, border
+    - The North province as particularly "at the crossroads" of
+      - French imperial power, planter politics, French cultural developments, striving French migrants,
+      - struggling African captives, activist Jesuit missionaries, free populations of color
+      - leading sugar technology center, emerging coffee industry, British North American smuggling,
+  - Use spatial history techniques to make my case.
+** Thoughts on Richard White's < 6page-essay on Spatial History
+- digital maps are ways to communicate but they are also research tools that allow us /force us to think in new ways
+- three kinds of human cultural relationships to space in spatial history
+  - spatial history has to recognize the "constructedness of space" --constructed by roads, borders, regulations; this is obviously huge in the Saint-Domingue/ Santo Domingo relationship, which is central to the Macandal element [ironically Macandal chose NOT to go to Santo Domingo]
+  - spatial history is also about the 'representation of space' -- in maps, texts, laws, etc. This means that a spatial history of Macandal should/could also describe how colonists reprsented the spaces of the north province in maps
+  - spatial history is also about 'representational space' -- as in the symbolic spaces of an early modern town like Cap FranÃ§ais where Macandal was executed before the church
+- Also there is 'absolute space' --
+- HE posts three "hard questions" on page 3:
+  1) "What operationally do we mean by spatial experience and what specifically are we studying?"
+  2) "How does spatial experience connect to the production of space?"
+  3) "And, finally, how are spatial relations constructed?"  
+- He proposes one answer to all three -- "movement" . Moving is how we experience space; we are studying movement; movement is also how we "produce space" and spatial relations are constructed through movement.
+** White and the Macandal paper
+- movement and networks are key:
+- What are Medor's movements? He tells us about those. What is his netowrk?
+  - CAn I trade the movements of other accused poisoners? 
+  - Macandal's movements are harder to trace. Where was the LeNormand plantation he was on?? Where was the plantation where he was captured?
+  - What were the movements of other maroon poisoners in the north?
+- Movements of the whites: I am arguing that Trou is caught between two zones: Cap and Fort Dauphin; but also between Santo Domingo and the North Plain
+  - networks of whites like Carbon, Delavaud, Fournier de la Chapelle connect their estates to the capital
+  - These networks also connect the rural world of estates and time and slavery to the urban world
+  - The networks of legal figures like Courtin, Fournier stretch to Paris as well as into the country-side
+* [2016-08-05 Fri] Outline developed for "Spatial History and the Macandal Mystery"
+** different approaches
+*** Describe the spaces, then describe the movement
+*** Describe a series of spatial history stories in Saint-Domingue and how they fit together
+- Anthrax
+- Food scarcity
+- Relation between Macandal's network and MÃ©dor
+- the Conspiracy: centered on MÃ©dor or Macandal?
+- Definitions of poison
+** Best outline: Describe the Macandal mystery, then describe how spatial history shows the answer
+*** The Macandal Story Raises 4 Sets of Questions: Spatial History answers the first one
+1. Deaths: why kill slaves and livestock? why not kill more whites? What was the poison?
+2. Why did slaves confess to poison? How would killing a master bring a slave freedom?
+3. How did Macandal build such a powerful network?
+4. How was the Macandal episode related to the Haitian Revolution?
+*** The Main Question answered: deaths were probably caused by food: main culprits were anthrax and mycotoxins
+**** War-time blockade leads to smuggling, especially in North Province
+**** Proximity of Santo Domingo border; stark contrast between French and Spanish territories
+- intensive sugar cultivation, focus on commodities, not food
+- opening of coffee in the 1730s; rise of coffee in northern mountains
+- population density; incoming Africans and Europeans in peace-window from 1748 to 1756 [compare to other world regions?]
+- livestock density; new heights [compare to other world regions??]
+- summary: zone of extraordinary change, density, climate,
+- summary: no real 'hinterland' left, except for Santo Domingo and intra-Caribbean shipping
+**** Progression of slave arrests and executions suggests movement from Spanish Santo Domingo
+- no firm description of death numbers or locations
+- no firm description of symptoms; poison was SLOW and poison was INSTANT
+**** Spoiled food was coming over the Spanish border
+- Evidence for marketing spoiled food in Cap: intendant, bakers, butchers
+*** Anthrax: 1770 outbreak, symptoms, 3 levels, lethality, history in France and Europe, recent definition of disease; spores went dormant?
+*** Wheat flour: describe blockade, cultural importance, evidence of lethality; end of smuggling coincides with end of poisoning
+**** Final evidence: Médor: confesses to explain recent unexpected deaths
+*** Conclusion
+* [2016-08-18 Thu] FW Intro 
+ - On January 2?, 1758, the royal executioner in France's most important colony, Saint-Domingue, tied a one-armed man to a stake in the leading city of Cap Français. A large crowd had gathered to watch the execution of the prisoner, a maroon or escaped slave known to his master as François, but feared throughout the province as Macandal. Nearly everyone in the crowd, black and white, enslave and free people, believed that Macandal was the mastermind behind a poisoning conspiracy that had killed thousands of humans and tens of thousands of livestock. Whites watched with satisfaction as the executioner lit the pyre around the stake; in the previous several months Cap Français had witnessed over a dozen such public burnings of poisoners but slave owners had reason to believe this might be the final one. They gasped in horror, then, when Macandal, his flesh already singed, broke free from his bonds and staggered forward on the platform. A cry went up among the blacks who would have made up a majority of the crowd -- "Macandal sauvé -- Macandal is saved." The convicted poisoner had boasted that the whites could never kill him and that prediction seemed to be coming true. Just as quickly, however, soldiers leapt on the prisoner and threw his bound body back on the fire, which eventually reduced his body to cinders. Nevertheless, the legend of Macandal, the charismatic African poisoner of uncanny abilities who fought the plantation system lived on in Saint-Domingue's culture. Colonists lived in fear of another Macandal rising from the enslaved population; blacks, presumably, saw the power of African culture to strike a blow at the society that held them in bondage.
+ - François Macandal has become the central image of black resistance in the years before the 1791 slave revolt that became the Haitian Revolution. Macandal has been described as a political revolutionary /avant la lettre/ and though this paper disputes that characterization, there is no doubt that the idea of "Macandal the posisoner" was of huge importance in the colony in the 1770s, 1780s and 1790s. Similarly, it is difficult to overstate Macandal's cultural importance as the most visible of Saint-Domingue's emerging Congo majority.
+* The Macandal Story Raises 4 Questions: Spatial History answers the first one
+Although the Macandal story is undeniably important as a symbol in Haitian history, the historical sources raise a number of difficult questions. For example, if the Macandal conspirators were waging war against white colonists, why were most of their victims livestock or enslaved people, instead of planters? Contemporaries  asserted Macandal was trying to "drive the whites from the island"[MstM] but they reported no numbers for the total white death toll. The governor and intendant did put a figure on the total slave deaths -- between 6,000 and 7,000 enslaved people died, roughly 10 percent of the province's slave population. Other sources put the number of livestock deaths in the tens of thousands. [source?]
+
+Many colonists interpreted these numbers as evidence that Macandal was trying to bankrupt them. Each imported male African [$2000]cost roughly as much as was required to support a French silk weaver and a household of five other people for a year. [check] Oxen, horses, and mules cost nearly as much as African captives. The poisoners were not killing the whites, these planters believed, but conspiring to drive them out of business, which was by far the most important reason for Saint-Domingue's existence as a French colony. 
+
+Some colonists, including the governor and intendant, saw no evidence of a conspiracy. For them poisoners acted as individuals, killing rivals, retaliating against masters for perceived injustices, and poisoning even their own families to avoid detection. The larger pattern, these colonists maintained, was that some poisoners were targeting their masters in order achieve liberty. They maintained, without examples, that masters who had promised in their testaments to manumit specific slaves were being poisoned so those slaves could be freed sooner. Setting aside the question of why these poisoners were also targetting animals and other slaves, this answer ignores the reality of how the legal system worked. When a colonist died, his or her estate was often tied up for months or years by executors and heirs. These individuals were often reluctant to free a slave, even if it was directed by a testament. If a master was inclined to manumit a slave, that slave could be more sure of his or her freedom if the master live long and died a natural death -- or manumitted the slave during his lifetime.
+
+Another question about the Macandal episode is why his poisoning conspiracy was limited to only one of Saint-Domingue's three provinces. As the Macandal myth grew in the 1770s and 1780s, some European writers described a poisoning network that covered the entire colony. This resonated with the idea of a massive conspiracy, but all of the 1750s sources agree that the poison deaths of that era were limited the North Province, with no spillover into the West or South Provinces. L'Huillier de Marigny, a royal attorney in the North who had investigated poisonings there, contended that colonists in his region were more likely to be from France, as opposed to island-born or creole. In the rest of Saint-Domingue, creole planters formed immoral relationships with women of color, who protected these benefactors from the poison of their slaves. In the more European colonial culture of the North Province, there was less of this kind of immorality.
+
+It is unclear whether there were fewer creole whites in the North than elsewhere but this is a moot point. No evidence supports L'Huillier's assertion that creole planters were more likely than French immigrants to take slave or free colored mistresses in Saint-Domingue [Rogers, Garrigus] What is interesting, however is L'Huillier's appreciation of the spatial component of the Macandal affair.
+
+A spatial analysis of the Macandal episode explains why livestock and enslaved people, not whites, were the most prominent casualties in the great die-off of 1757-58. As this paper demonstrates, Saint-Domingue's North Province was more reliant on Atlantic food imports than the rest of the colony. Consequently an unprecedented British trade embargo at the beginning of the Seven Years' War caused near-famine conditions in the province, exacerbated by drought and a rapidly expanding population. The food imports that were available came into the North from east to west, across the nearby border with Spanish Santo Domingo and on to the cities of Cap Français and Port-de-Paix, and their hinterlands. The colonial hysteria over slave poisoning followed the same path from east to west. Just as Macandal's accusers maintained a network of slaves and free blacks were delivering poison to households and estates throughout the north province. But these were peddlers, not conspiratorial poisoners. They were bringing deadly food from Santo Domingo. Although it is impossible to prove, the poisons were probably dried meat and live cattle tainted with anthrax from Spanish colonial ranches, and imported wheat flour, some of it badly spoiled in shipping, carried from the fishing village of Monte Cristo, which became a major smuggling port in 1757 and 1758.
+* RESUME
+**** Prove the War-time blockade
+**** Prove reliance on imports in North Province
+**** Disucss the Proximity of Santo Domingo border;
+**** Discuss the stark contrast between French and Spanish territories
+- intensive sugar cultivation, focus on commodities, not food
+- opening of coffee in the 1730s; rise of coffee in northern mountains
+- population density; incoming Africans and Europeans in peace-window from 1748 to 1756 [compare to other world regions?]
+- livestock density; new heights [compare to other world regions??]
+- summary: zone of extraordinary change, density, climate,
+- summary: no real 'hinterland' left, except for Santo Domingo and intra-Caribbean shipping
